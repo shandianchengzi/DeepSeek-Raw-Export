@@ -60,4 +60,4 @@ The script works in the following way:
 - Basic export functionality implementation
 
 ## More Detailed Introduction
-TODO
+[【开源工具】DeepSeek-Raw-Export｜油猴脚本使用 DeepSeek 的复制按键直接导出-CSDN博客](https://shandianchengzi.blog.csdn.net/article/details/157300233)
