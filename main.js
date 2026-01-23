@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         DeepSeek原始对话导出
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  精准提取 DeepSeek 对话，区分用户输入和 AI 回答
 // @author       You
 // @match        https://chat.deepseek.com/*
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
