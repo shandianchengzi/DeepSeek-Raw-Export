@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DeepSeek 对话导出（区分用户/AI）
+// @name         DeepSeek原始对话导出
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  精准提取 DeepSeek 对话，区分用户输入和 AI 回答
