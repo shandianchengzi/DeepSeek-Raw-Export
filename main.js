@@ -1,6 +1,8 @@
 // ==UserScript==
-// @name         DeepSeek & ChatGPT Markdown 导出
-// @namespace    https://github.com/shandianchengzi/DeepSeek-Raw-Export
+// @name         DeepSeek原始对话导出
+// @name:zh-CN   DeepSeek / ChatGPT 对话 Markdown 导出
+// @name:en      DeepSeek / ChatGPT Markdown Exporter
+// @namespace    http://tampermonkey.net/
 // @version      3.2
 // @description  导出 DeepSeek 与 ChatGPT 网页当前对话为 Markdown；DeepSeek 使用原始复制按钮，ChatGPT 使用可见消息 DOM 解析。
 // @author       shandianchengzi
